@@ -113,8 +113,8 @@ This project demonstrates my ability to build scalable and user-friendly web app
 If you find this project impressive and want to discuss potential opportunities, please feel free to reach out:
 
 - **Email**: meritbhusal@gmail.com
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/merit-bhusal-53304832b/)
-- **GitHub**: [github.com/your-username](https://github.com/meritbh)
+- **LinkedIn**: [linkedin.com/in/merit-bhusal](https://www.linkedin.com/in/merit-bhusal-53304832b/)
+- **GitHub**: [github.com/meritbh](https://github.com/meritbh)
 
 Thank you for taking the time to review my project. I'm excited about the opportunity to contribute to innovative teams and grow as a software developer!
 
